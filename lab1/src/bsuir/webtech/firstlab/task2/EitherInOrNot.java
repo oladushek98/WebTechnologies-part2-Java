@@ -2,18 +2,16 @@ package bsuir.webtech.firstlab.task2;
 
 import bsuir.webtech.firstlab.reader.Reader;
 
-public class EitherInOrNot {
+public class EitherInOrNot{
 
-
-    public boolean Checker(){
-//       double x =  Reader.readDouble();
-//       double y = Reader.readDouble();
+    public boolean Checker(double x, double y){
        boolean in = false;
-       if ((x < 6) && (x > -6) && (y < 0) && (y > -3)){
-           in = true;
-       }
-       if ((x < 4) && (x > -4) && (y > 0) && (y < 5)){
-           in = true;
+
+       if ((y <= 5) && (y >= -3)){
+           if ((y >= 0) && (x >= -4) && (x <= 4))
+               in = true;
+           if ((y <= 0) && (x >= -6) && (x <= 6))
+               in = true;
        }
        return in;
     }

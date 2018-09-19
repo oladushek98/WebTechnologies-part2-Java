@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="612b9b2a-da8e-4b82-a88a-f59ee6262261" name="Default Changelist" comment="" />
+    <list default="true" id="612b9b2a-da8e-4b82-a88a-f59ee6262261" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/ExpressionValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/ExpressionValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/EitherInOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/EitherInOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,34 +55,34 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="form" value="1" />
-          <entry key="java" value="4" />
+          <entry key="java" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="GUI_DESIGNER_FORM" value="1" />
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="679" />
+          <entry key="java" value="2610" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="679" />
+          <entry key="JAVA" value="2610" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="225">
+              <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,8 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/ExpressionValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="45">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -103,19 +118,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/EitherInOrNot.java">
+        <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            <state relative-caret-position="195">
+              <caret line="16" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java">
+        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/EitherInOrNot.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Count/FindValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,15 +185,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/ExpressionValueTest.java" />
-        <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/ExpressionValue.java" />
-        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java" />
+        <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Function.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/FindValue/FindValue.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Count/FindValue.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/ToDouble/MyDouble.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Output/Print.java" />
+        <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Output/PrintTest.java" />
+        <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest.java" />
+        <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest.java" />
+        <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest1.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/EitherInOrNot.java" />
+        <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest1.java" />
+        <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest1.java" />
       </list>
     </option>
   </component>
@@ -149,12 +217,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="511" />
     <option name="y" value="93" />
     <option name="width" value="1157" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -209,13 +284,49 @@
             <path>
               <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="firstlab" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="firstlab" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+              <item name="Count" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="firstlab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="firstlab" type="462c0819:PsiDirectoryNode" />
               <item name="task1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="firstlab" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="firstlab" type="462c0819:PsiDirectoryNode" />
+              <item name="Count" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,7 +339,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537372985671" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537399938749" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
@@ -243,7 +354,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="bsuir.webtech.firstlab.task3.Count" />
       <recent name="bsuir.webtech.firstlab.task1" />
+      <recent name="bsuir.webtech.firstlab.task2" />
+      <recent name="bsuir.webtech.firstlab.task3.Output" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -261,7 +375,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ExpressionValueTest.testFind">
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.action.Runner" />
       <module name="lab1" />
@@ -275,7 +389,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpressionValueTest.testFind" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="EitherInOrNotTest1.testChecker" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bsuir.webtech.firstlab.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bsuir.webtech.firstlab.task2" />
+      <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.task2.EitherInOrNotTest1" />
+      <option name="METHOD_NAME" value="testChecker" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressionValueTest1.testFind" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <extension name="coverage">
         <pattern>
@@ -284,7 +416,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="bsuir.webtech.firstlab.task1" />
-      <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.task1.ExpressionValueTest" />
+      <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.task1.ExpressionValueTest1" />
       <option name="METHOD_NAME" value="testFind" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -293,14 +425,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindValueTest1.testCountValue" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bsuir.webtech.firstlab.task3.Count.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bsuir.webtech.firstlab.task3.Count" />
+      <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.task3.Count.FindValueTest1" />
+      <option name="METHOD_NAME" value="testCountValue" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lab1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Runner" />
-      <item itemvalue="TestNG.ExpressionValueTest.testFind" />
+      <item itemvalue="TestNG.EitherInOrNotTest1.testChecker" />
+      <item itemvalue="TestNG.ExpressionValueTest1.testFind" />
+      <item itemvalue="TestNG.FindValueTest1.testCountValue" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ExpressionValueTest.testFind" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.FindValueTest1.testCountValue" />
+        <item itemvalue="TestNG.EitherInOrNotTest1.testChecker" />
         <item itemvalue="Application.Runner" />
+        <item itemvalue="TestNG.ExpressionValueTest1.testFind" />
       </list>
     </recent_temporary>
   </component>
@@ -315,26 +481,44 @@
       <option name="presentableId" value="Default" />
       <updated>1537366548272</updated>
       <workItem from="1537366554492" duration="2057000" />
-      <workItem from="1537368772282" duration="4344000" />
+      <workItem from="1537368772282" duration="19381000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExpressionValueTest_testFind - 2018.09.19 at 18h 42m 16s.xml">
-      <configuration name="ExpressionValueTest.testFind" configurationId="TestNG" />
+    <history-entry file="_default_ - 2018.09.19 at 22h 48m 55s.xml">
+      <configuration name="&lt;default&gt;" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExpressionValueTest_testFind - 2018.09.19 at 18h 42m 35s.xml">
-      <configuration name="ExpressionValueTest.testFind" configurationId="TestNG" />
+    <history-entry file="_default_ - 2018.09.19 at 22h 49m 40s.xml">
+      <configuration name="&lt;default&gt;" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExpressionValueTest_testFind - 2018.09.19 at 18h 43m 23s.xml">
-      <configuration name="ExpressionValueTest.testFind" configurationId="TestNG" />
+    <history-entry file="_default_ - 2018.09.20 at 00h 47m 28s.xml">
+      <configuration name="&lt;default&gt;" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExpressionValueTest_testFind - 2018.09.19 at 18h 43m 45s.xml">
-      <configuration name="ExpressionValueTest.testFind" configurationId="TestNG" />
+    <history-entry file="FindValueTest - 2018.09.20 at 02h 06m 16s.xml">
+      <configuration name="FindValueTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FindValueTest - 2018.09.20 at 02h 07m 55s.xml">
+      <configuration name="FindValueTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EitherInOrNotTest1_testChecker - 2018.09.20 at 02h 13m 22s.xml">
+      <configuration name="EitherInOrNotTest1.testChecker" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExpressionValueTest1_testFind - 2018.09.20 at 02h 17m 04s.xml">
+      <configuration name="ExpressionValueTest1.testFind" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EitherInOrNotTest1_testChecker - 2018.09.20 at 02h 22m 53s.xml">
+      <configuration name="EitherInOrNotTest1.testChecker" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EitherInOrNotTest1_testChecker - 2018.09.20 at 02h 23m 11s.xml">
+      <configuration name="EitherInOrNotTest1.testChecker" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EitherInOrNotTest1_testChecker - 2018.09.20 at 02h 27m 11s.xml">
+      <configuration name="EitherInOrNotTest1.testChecker" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6401000" />
+    <option name="totallyTimeSpent" value="21438000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,7 +542,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32912844" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32988507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -367,7 +551,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32912844" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32912844" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32873562" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -376,14 +560,56 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32943293" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538254" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32988507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32912844" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32912844" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32873562" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32943293" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/firsttask/reader/service.java" />
@@ -400,6 +626,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Output/PrintTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Output/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/ToDouble/MyDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -407,34 +688,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/ExpressionValue.java">
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="165">
+          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java">
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/ExpressionValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/EitherInOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        <state relative-caret-position="90">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="225">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Count/FindValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
         </state>
       </provider>
     </entry>

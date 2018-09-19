@@ -10,7 +10,11 @@ public class Reader {
         return result;
     }
 
-   /* public  static  int reader(int result){
+    public static int readInt(){
+        Scanner in = new Scanner(System.in);
+        int result = in.nextInt();
+        return result;
+    }
 
-    }*/
+
 }

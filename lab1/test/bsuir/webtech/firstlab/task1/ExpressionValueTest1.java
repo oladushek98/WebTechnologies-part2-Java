@@ -5,13 +5,13 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.*;
 
-public class ExpressionValueTest {
-    ExpressionValue expressionValue = new ExpressionValue();
+public class ExpressionValueTest1 {
+    ExpressionValue exp = new ExpressionValue();
 
     @Test
     public void testFind() {
-        double expected = 5.185560456233397;
-        double actual = expressionValue.Find(5, 5);
+        double expected = 0.5;
+        double actual = exp.Find(0, 0);
         Assert.assertEquals(actual, expected, "Wrong answer!");
     }
 }
