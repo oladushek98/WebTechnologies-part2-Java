@@ -16,5 +16,11 @@ public class Reader {
         return result;
     }
 
+    public static  String readString(){
+        Scanner in = new Scanner(System.in);
+        String result = in.next();
+        return result;
+    }
+
 
 }

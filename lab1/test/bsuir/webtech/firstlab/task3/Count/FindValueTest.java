@@ -14,7 +14,7 @@ public class FindValueTest {
     @Test
     public void testCountValue() {
         double expected = 1.5574077246549023;
-        double actual = value.CountValue(x, 0.2);
+        double actual = value.CountValue(1);
         Assert.assertEquals(actual, expected, "Wrong answer!");
     }
 

@@ -5,9 +5,8 @@ import bsuir.webtech.firstlab.task3.ToDouble.*;
 
 public class FindValue {
 
-    public double CountValue( MyDouble x, double h){
-        double value = Math.tan(x.GetDouble());
-        x.Add(h);
+    public double CountValue( double x ){
+        double value = Math.tan(x);
         return value;
     }
 }
