@@ -2,23 +2,20 @@ package bsuir.webtech.firstlab.task4.Output;
 
 import bsuir.webtech.firstlab.task4.IfPrimeNumber.PrimeNumb;
 
+import java.util.ArrayList;
+
 public class Print {
 
-    public String Print(int[] arr){
+    public ArrayList<Integer> resultOutput(int[] arr){
         PrimeNumb prime = new PrimeNumb();
-        String res = "";
-        boolean arePrime = false;
+        ArrayList<Integer> res = new ArrayList<Integer>();
         for(int i = 0; i < arr.length; i++){
             if ((arr[i] != 0) && (arr[i] != 1))
                 if (prime.IfPrime(arr[i])){
-                    // System.out.print((i+1) + " ");
-                    res += Integer.toString(i+1) + " ";
-                    arePrime = true;
+                    res.add(i+1);
                 }
         }
-        if (!arePrime)
-            //System.out.println("No prime numbers!");
-            res = "No prime numbers!";
+
         return res;
     }
 }
