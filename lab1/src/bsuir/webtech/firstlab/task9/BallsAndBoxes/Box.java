@@ -6,7 +6,7 @@ public class Box {
     public double getTotalWeight(){
         return totalWeight;
     }
-    public void setTotalWeight(double extra){
+    public void addTotalWeight(double extra){
         this.totalWeight += extra;
     }
 
@@ -14,7 +14,7 @@ public class Box {
     public int getBlueAmount(){
         return blueAmount;
     }
-    public void setBlueAmount(){
+    public void incBlueAmount(){
         this.blueAmount++;
     }
 

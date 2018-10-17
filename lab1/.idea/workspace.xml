@@ -2,25 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="612b9b2a-da8e-4b82-a88a-f59ee6262261" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Structure/ArrStruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/Counters/Counters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/action/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task3/Count/FindValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task3/Count/FindValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task3/Output/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task3/Output/Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task3/Count/FindValueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task3/Count/FindValueTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task3/Count/FindValueTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task3/Count/FindValueTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/action/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/action/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task2/EitherInOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task4/Output/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task4/Output/Print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task4/Structure/ArrStruct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task9/BallsAndBoxes/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task9/BallsAndBoxes/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task9/Counters/Counters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task9/Counters/Counters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task2/EitherInOrNotTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task2/EitherInOrNotTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task4/Output/PrintTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task4/Output/PrintTest1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Count/FindValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Count/FindValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Output/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Output/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/EitherInOrNot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Structure/ArrStruct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/Counters/Counters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/Counters/Counters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest1.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,30 +93,46 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1676903302">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="23" />
+          <entry key="java" value="888" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="888" />
+          <entry key="PLAIN_TEXT" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Ball.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -120,52 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="357">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Box.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/Counters/Counters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/ToDouble/MyDouble.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -173,35 +149,72 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="187">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Structure/ArrStruct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="272">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#351#360#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest.java">
+        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Runner/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="357">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/Checker/Checker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/Checker/CheckerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/Runner/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -212,8 +225,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="TestNG Test Class" />
         <option value="Class" />
+        <option value="TestNG Test Class" />
       </list>
     </option>
   </component>
@@ -240,17 +253,21 @@
         <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/PrimeNumb.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Structure/ArrStruct.java" />
-        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java" />
         <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest.java" />
         <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest1.java" />
-        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Balls.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/Logic/Counters.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Ball.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/Counters/Counters.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Box.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/Checker/Checker.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/Runner/Run.java" />
+        <option value="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/Checker/CheckerTest.java" />
         <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Runner/Run.java" />
+        <option value="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java" />
       </list>
     </option>
   </component>
@@ -266,10 +283,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="551" />
-    <option name="y" value="27" />
-    <option name="width" value="1157" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="550" />
+    <option name="y" value="25" />
+    <option name="width" value="1159" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -301,37 +318,26 @@
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="firstlab" type="462c0819:PsiDirectoryNode" />
-              <item name="action" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="firstlab" type="462c0819:PsiDirectoryNode" />
-              <item name="reader" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
+              <item name="Output" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="firstlab" type="462c0819:PsiDirectoryNode" />
-              <item name="task9" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="firstlab" type="462c0819:PsiDirectoryNode" />
-              <item name="task9" type="462c0819:PsiDirectoryNode" />
-              <item name="BallsAndBoxes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lab1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lab1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="firstlab" type="462c0819:PsiDirectoryNode" />
-              <item name="task9" type="462c0819:PsiDirectoryNode" />
-              <item name="Counters" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,12 +350,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537469058863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538049247720" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/testng-6.8.7.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -359,11 +365,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="bsuir.webtech.firstlab.task2.Checker" />
       <recent name="bsuir.webtech.firstlab.task4.Output" />
       <recent name="bsuir.webtech.firstlab.task3.Count" />
       <recent name="bsuir.webtech.firstlab.task1" />
       <recent name="bsuir.webtech.firstlab.task2" />
-      <recent name="bsuir.webtech.firstlab.task3.Output" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -381,7 +387,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner">
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.task2.Runner.Run" />
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bsuir.webtech.firstlab.task2.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.task4.Runner.Run" />
+      <module name="lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bsuir.webtech.firstlab.task4.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.action.Runner" />
       <module name="lab1" />
@@ -391,24 +423,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindValueTest1.testCountValue" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="lab1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bsuir.webtech.firstlab.task3.Count.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bsuir.webtech.firstlab.task3.Count" />
-      <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.task3.Count.FindValueTest1" />
-      <option name="METHOD_NAME" value="testCountValue" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -431,24 +445,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTest.testPrint" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="lab1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bsuir.webtech.firstlab.task4.Output.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="bsuir.webtech.firstlab.task4.Output" />
-      <option name="MAIN_CLASS_NAME" value="bsuir.webtech.firstlab.task4.Output.PrintTest" />
-      <option name="METHOD_NAME" value="testPrint" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="lab1" />
       <option name="PACKAGE_NAME" value="" />
@@ -461,18 +457,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Runner" />
-      <item itemvalue="TestNG.FindValueTest1.testCountValue" />
       <item itemvalue="TestNG.&lt;default&gt;" />
-      <item itemvalue="TestNG.PrintTest.testPrint" />
       <item itemvalue="TestNG.PrintTest1.testPrint" />
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.Run (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.PrintTest1.testPrint" />
-        <item itemvalue="TestNG.PrintTest.testPrint" />
-        <item itemvalue="TestNG.FindValueTest1.testCountValue" />
       </list>
     </recent_temporary>
   </component>
@@ -488,6 +484,8 @@
       <updated>1537366548272</updated>
       <workItem from="1537366554492" duration="2057000" />
       <workItem from="1537368772282" duration="34692000" />
+      <workItem from="1537477203203" duration="6602000" />
+      <workItem from="1538025537489" duration="6549000" />
     </task>
     <servers />
   </component>
@@ -524,7 +522,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36749000" />
+    <option name="totallyTimeSpent" value="49900000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -536,10 +534,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15048026" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15369128" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -547,17 +545,17 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32912844" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.59567565" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2964539" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32873562" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32765958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -569,7 +567,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32943293" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2538254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15436241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -577,17 +575,17 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32988507" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32912844" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32873562" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.2964539" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32873562" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32765958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -605,57 +603,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/firsttask/reader/service.java" />
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/form1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/form1.form">
-      <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/ExpressionValueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Output/PrintTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/form1.java" />
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/form1.form" />
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task1/ExpressionValueTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Function.java" />
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Output/PrintTest.java" />
     <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -677,13 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/EitherInOrNot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/EitherInOrNotTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -702,16 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -719,9 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -732,103 +666,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest1.java">
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Structure/ArrStruct.java" />
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Ball.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Structure/ArrStruct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/ToDouble/MyDouble.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        <state relative-caret-position="204">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Box.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Ball.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/Counters/Counters.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/ToDouble/MyDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/EitherInOrNot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task1/ExpressionValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/Runner/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Runner/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/bsuir/webtech/firstlab/task2/Checker/CheckerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task2/Checker/Checker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#351#360#0" expanded="true" />
           </folding>
         </state>
       </provider>
