@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="612b9b2a-da8e-4b82-a88a-f59ee6262261" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/IfPrimeNumber/PrimeNumb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Output/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task4/Structure/ArrStruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/BallsAndBoxes/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task9/Counters/Counters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task4/Output/PrintTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/action/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task3/Count/FindValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task3/Count/FindValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task3/Output/Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab1/bsuir/webtech/firstlab/task3/Output/Print.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task3/Count/FindValueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task3/Count/FindValueTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task3/Count/FindValueTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/lab1/bsuir/webtech/firstlab/task3/Count/FindValueTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/action/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/reader/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Count/FindValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Count/FindValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Output/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsuir/webtech/firstlab/task3/Output/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/bsuir/webtech/firstlab/task3/Count/FindValueTest1.java" afterDir="false" />
-    </list>
+    <list default="true" id="612b9b2a-da8e-4b82-a88a-f59ee6262261" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +42,7 @@
     <session id="-1313408185">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -344,7 +325,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537469058863" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537469145337" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
@@ -487,7 +468,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537366548272</updated>
       <workItem from="1537366554492" duration="2057000" />
-      <workItem from="1537368772282" duration="34692000" />
+      <workItem from="1537368772282" duration="34819000" />
     </task>
     <servers />
   </component>
@@ -524,7 +505,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36749000" />
+    <option name="totallyTimeSpent" value="36876000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -537,7 +518,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15048026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -548,7 +528,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
