@@ -1,11 +1,10 @@
 package bsuir.webtech.firstlab.task16;
 
-import bsuir.webtech.firstlab.task12_13.task12.Books;
+import bsuir.webtech.firstlab.task12_13_14_15.task12.Books;
 import bsuir.webtech.firstlab.task16.Comparator.BooksAuthorComparator;
 import bsuir.webtech.firstlab.task16.Comparator.BooksPriceComparator;
 import bsuir.webtech.firstlab.task16.Comparator.BooksTitleComparator;
 
-import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.TreeSet;
 

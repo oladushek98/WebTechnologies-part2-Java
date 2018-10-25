@@ -11,11 +11,5 @@ public class Counters {
     public int getTotalCount(){
         return totalCount;
     }
-    public void setTotalCount(){
-        this.totalCount = Reader.readInt();
-        //return this.totalCount;
-    }
-
-
 
 }

@@ -1,7 +1,7 @@
 package bsuir.webtech.firstlab.action;
 
 import bsuir.webtech.firstlab.reader.Reader;
-//import bsuir.webtech.firstlab.task1.ExpressionValue;
+//import ExpressionValue;
 //import bsuir.webtech.firstlab.task3.*;
 //import bsuir.webtech.firstlab.task3.Count.FindValue;
 //import bsuir.webtech.firstlab.task3.ToDouble.MyDouble;
@@ -12,7 +12,7 @@ import bsuir.webtech.firstlab.task9.Counters.Counters;
 public class Runner {
 
     public static void main(String[] args) {
-        try {
+       /* try {
             Counters count = new Counters(Reader.readInt());
             Box box = new Box();
             Ball ball;
@@ -27,7 +27,7 @@ public class Runner {
         }
         catch (Exception ex){
             ex.getLocalizedMessage();
-        }
+        }*/
 
     }
 }

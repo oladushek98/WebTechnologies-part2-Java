@@ -1,6 +1,6 @@
 package bsuir.webtech.firstlab.task3.Count;
 
-import bsuir.webtech.firstlab.task3.ToDouble.*;
+
 
 
 public class FindValue {

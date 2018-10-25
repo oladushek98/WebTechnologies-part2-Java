@@ -15,7 +15,7 @@ public class Run {
             Box box = new Box();
             Ball ball;
             for (int i = 0; i < count.getTotalCount(); i++){
-                ball = new Ball(Reader.readDouble(), Reader.readString());//хуй
+                ball = new Ball(Reader.readDouble(), Reader.readString());
                 box.addTotalWeight(ball.getWeight());
                 if (ball.getColor().equalsIgnoreCase("blue")){
                     box.incBlueAmount();
